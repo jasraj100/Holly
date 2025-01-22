@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 GOLDENHELO - Advanced Anti-DDoS Protection System
 Author: Jasraj
